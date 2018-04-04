@@ -1,0 +1,13 @@
+Welcome to oscFit3D! v2.0
+--------------------
+
+The documentation is located in (or you can build it yourself)
+https://sites.ualberta.ca/~yaezgarz/oscfit/
+The documentation is under construction. If there's something missing and/or confusing, send an email so that part is given priority.
+
+- If you *have not* used oscFit before, go to the documentation and start there.
+
+- If you have used oscFit before the installation should be pretty simple. Run the setup.py file from within the folder where the new version of oscFit is located. This will import and update your files.
+
+Questions and comments:
+j.p.yanez (at) ualberta.ca

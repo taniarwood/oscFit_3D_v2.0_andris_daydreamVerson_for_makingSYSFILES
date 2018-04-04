@@ -1,0 +1,36 @@
+oscFit 3D 2.0
+Release Notes
+==============
+
+Changes vs oscFitND v1.1
+
+
+Major changes
+-------------
+
+- Not ND anymore. Users can define up to 3 dimensions. Need more? Fire up another dataLoader.
+- Correction for the MC expectation of the baseline is always applied.
+- Detection systematics are calculated from/applied to atmospheric muons.
+- Detector systematics are calculated/applied *per flavor/interaction*. Always.
+- File to help users of previous versions to move to the newer version.
+
+
+Minor changes
+-------------
+
+- Histograms of systematic variations are stored after first calculation. Faster code.
+- Arbitrary detector systematics can be defined in dataLoader for testing.
+- Python minimizers play nice with the code. Recommendation: SLSQP. Fast and reliable.
+- Default values stored in a different module. User can override any of them without changing the file.
+- The Barlow likelihood has been debugged; works out of the box.
+- Users are encouraged to KDE the systematic uncertainties. Only needed once if settings do not change.
+
+
+Upcoming changes (next version)
+-------------------------------
+- Calculate oscillations, flux changes in finely binned tables. Use that instead of event-wise changes.
+- Allow NuTau NC normalization. Trivial, but requires some thinkering with the code.
+
+
+Not satisfied? Send your special wishes to:
+j.p.yanez (at) ualberta.ca

@@ -1,0 +1,503 @@
+0  +1.02990  +0.40474  +1.00000  +0.01997  +0.00000
+Nu norms index 2.00179732879 11173.1786585
+Nu norms index 0.513722752523 3406.53452164
+Nu norms index 1.02147430655 7176.98231474
+Nu norms index 1.171622388 7419.51588477
+Nu norms index 0.929371286254 4752.26590591
+Nu norms index 1.14202160845 3948.64567159
+Nu norms index 0.924500277795 1829.29401073
+Nu norms index 1.32894276106 2045.8368208
+Nu norms index 0.0 0.0
+[[[  40.082   40.725]
+  [ 117.44    73.968]
+  [ 239.329  117.739]
+  [ 403.002  179.342]
+  [ 505.592  244.54 ]
+  [ 545.788  264.882]
+  [ 447.556  238.555]
+  [ 302.748  205.718]]
+
+ [[ 160.435  125.854]
+  [ 303.327  137.911]
+  [ 504.612  181.658]
+  [ 662.219  222.014]
+  [ 750.367  260.39 ]
+  [ 743.427  266.375]
+  [ 625.463  237.453]
+  [ 448.321  243.478]]
+
+ [[ 399.436  220.909]
+  [ 572.034  226.889]
+  [ 731.604  266.268]
+  [ 821.634  301.827]
+  [ 833.87   307.177]
+  [ 786.12   288.039]
+  [ 657.56   238.262]
+  [ 510.909  256.33 ]]
+
+ [[ 520.951  322.721]
+  [ 654.807  341.906]
+  [ 738.056  402.587]
+  [ 806.638  426.852]
+  [ 786.11   423.984]
+  [ 693.635  345.34 ]
+  [ 564.641  251.689]
+  [ 431.19   253.625]]
+
+ [[ 472.413  334.539]
+  [ 571.172  418.192]
+  [ 628.476  473.698]
+  [ 665.236  480.078]
+  [ 641.146  461.967]
+  [ 525.389  371.677]
+  [ 416.084  254.341]
+  [ 319.263  181.922]]
+
+ [[ 326.797  242.896]
+  [ 379.311  361.29 ]
+  [ 430.574  398.38 ]
+  [ 456.473  405.407]
+  [ 427.443  407.213]
+  [ 353.78   343.43 ]
+  [ 265.247  240.386]
+  [ 198.036  149.782]]
+
+ [[ 183.711  127.747]
+  [ 206.813  210.105]
+  [ 236.489  249.594]
+  [ 273.957  262.968]
+  [ 251.88   269.831]
+  [ 199.199  232.085]
+  [ 154.231  191.483]
+  [ 117.067  126.267]]
+
+ [[  90.302   47.893]
+  [ 101.782   82.904]
+  [ 123.223  115.015]
+  [ 155.466  127.73 ]
+  [ 135.079  133.26 ]
+  [ 106.968  115.88 ]
+  [  83.875  102.219]
+  [  67.971   81.551]]
+
+ [[  41.93    20.936]
+  [  47.637   32.292]
+  [  62.901   47.594]
+  [  86.404   66.717]
+  [  71.283   66.405]
+  [  52.56    55.968]
+  [  40.993   53.719]
+  [  35.181   47.457]]
+
+ [[  16.996   11.942]
+  [  21.856   15.783]
+  [  29.751   21.421]
+  [  38.843   29.787]
+  [  38.745   29.632]
+  [  23.391   26.233]
+  [  16.253   22.106]
+  [  12.495   21.764]]]
+43997.4707379
+28.59046  +0.00256  +0.96232  +0.90651  +0.29668  +0.09045  +0.19057  +0.19701  +0.12619  +0.10485  +0.04857  +0.05626  +0.96220  +1.02990  +0.40474  +1.00000  +0.02000  +0.69883
+Nu norms index 2.00179732879 11173.1786585
+Nu norms index 0.513722752523 3406.53452164
+Nu norms index 1.02147430655 7176.98231474
+Nu norms index 1.171622388 7419.51588477
+Nu norms index 0.929371286254 4752.26590591
+Nu norms index 1.14202160845 3948.64567159
+Nu norms index 0.924500277795 1829.29401073
+Nu norms index 1.32894276106 2045.8368208
+Nu norms index 0.0 0.0
+[[[  40.082   40.725]
+  [ 117.44    73.968]
+  [ 239.329  117.739]
+  [ 403.002  179.342]
+  [ 505.592  244.54 ]
+  [ 545.788  264.882]
+  [ 447.556  238.555]
+  [ 302.748  205.718]]
+
+ [[ 160.435  125.854]
+  [ 303.327  137.911]
+  [ 504.612  181.658]
+  [ 662.219  222.014]
+  [ 750.367  260.39 ]
+  [ 743.427  266.375]
+  [ 625.463  237.453]
+  [ 448.321  243.478]]
+
+ [[ 399.436  220.909]
+  [ 572.034  226.889]
+  [ 731.604  266.268]
+  [ 821.634  301.827]
+  [ 833.87   307.177]
+  [ 786.12   288.039]
+  [ 657.56   238.262]
+  [ 510.909  256.33 ]]
+
+ [[ 520.951  322.721]
+  [ 654.807  341.906]
+  [ 738.056  402.587]
+  [ 806.638  426.852]
+  [ 786.11   423.984]
+  [ 693.635  345.34 ]
+  [ 564.641  251.689]
+  [ 431.19   253.625]]
+
+ [[ 472.413  334.539]
+  [ 571.172  418.192]
+  [ 628.476  473.698]
+  [ 665.236  480.078]
+  [ 641.146  461.967]
+  [ 525.389  371.677]
+  [ 416.084  254.341]
+  [ 319.263  181.922]]
+
+ [[ 326.797  242.896]
+  [ 379.311  361.29 ]
+  [ 430.574  398.38 ]
+  [ 456.473  405.407]
+  [ 427.443  407.213]
+  [ 353.78   343.43 ]
+  [ 265.247  240.386]
+  [ 198.036  149.782]]
+
+ [[ 183.711  127.747]
+  [ 206.813  210.105]
+  [ 236.489  249.594]
+  [ 273.957  262.968]
+  [ 251.88   269.831]
+  [ 199.199  232.085]
+  [ 154.231  191.483]
+  [ 117.067  126.267]]
+
+ [[  90.302   47.893]
+  [ 101.782   82.904]
+  [ 123.223  115.015]
+  [ 155.466  127.73 ]
+  [ 135.079  133.26 ]
+  [ 106.968  115.88 ]
+  [  83.875  102.219]
+  [  67.971   81.551]]
+
+ [[  41.93    20.936]
+  [  47.637   32.292]
+  [  62.901   47.594]
+  [  86.404   66.717]
+  [  71.283   66.405]
+  [  52.56    55.968]
+  [  40.993   53.719]
+  [  35.181   47.457]]
+
+ [[  16.996   11.942]
+  [  21.856   15.783]
+  [  29.751   21.421]
+  [  38.843   29.787]
+  [  38.745   29.632]
+  [  23.391   26.233]
+  [  16.253   22.106]
+  [  12.495   21.764]]]
+43997.4707379
+28.59046  +0.00256  +0.96232  +0.90651  +0.29668  +0.09045  +0.19057  +0.19701  +0.12619  +0.10485  +0.04857  +0.05626  +0.96220  +1.02990  +0.40474  +1.00000  +0.02000  -0.69883
+Nu norms index 2.00179732879 11173.1786585
+Nu norms index 0.513722752523 3406.53452164
+Nu norms index 1.02147430655 7176.98231474
+Nu norms index 1.171622388 7419.51588477
+Nu norms index 0.929371286254 4752.26590591
+Nu norms index 1.14202160845 3948.64567159
+Nu norms index 0.924500277795 1829.29401073
+Nu norms index 1.32894276106 2045.8368208
+Nu norms index 0.0 0.0
+[[[  40.082   40.725]
+  [ 117.44    73.968]
+  [ 239.329  117.739]
+  [ 403.002  179.342]
+  [ 505.592  244.54 ]
+  [ 545.788  264.882]
+  [ 447.556  238.555]
+  [ 302.748  205.718]]
+
+ [[ 160.435  125.854]
+  [ 303.327  137.911]
+  [ 504.612  181.658]
+  [ 662.219  222.014]
+  [ 750.367  260.39 ]
+  [ 743.427  266.375]
+  [ 625.463  237.453]
+  [ 448.321  243.478]]
+
+ [[ 399.436  220.909]
+  [ 572.034  226.889]
+  [ 731.604  266.268]
+  [ 821.634  301.827]
+  [ 833.87   307.177]
+  [ 786.12   288.039]
+  [ 657.56   238.262]
+  [ 510.909  256.33 ]]
+
+ [[ 520.951  322.721]
+  [ 654.807  341.906]
+  [ 738.056  402.587]
+  [ 806.638  426.852]
+  [ 786.11   423.984]
+  [ 693.635  345.34 ]
+  [ 564.641  251.689]
+  [ 431.19   253.625]]
+
+ [[ 472.413  334.539]
+  [ 571.172  418.192]
+  [ 628.476  473.698]
+  [ 665.236  480.078]
+  [ 641.146  461.967]
+  [ 525.389  371.677]
+  [ 416.084  254.341]
+  [ 319.263  181.922]]
+
+ [[ 326.797  242.896]
+  [ 379.311  361.29 ]
+  [ 430.574  398.38 ]
+  [ 456.473  405.407]
+  [ 427.443  407.213]
+  [ 353.78   343.43 ]
+  [ 265.247  240.386]
+  [ 198.036  149.782]]
+
+ [[ 183.711  127.747]
+  [ 206.813  210.105]
+  [ 236.489  249.594]
+  [ 273.957  262.968]
+  [ 251.88   269.831]
+  [ 199.199  232.085]
+  [ 154.231  191.483]
+  [ 117.067  126.267]]
+
+ [[  90.302   47.893]
+  [ 101.782   82.904]
+  [ 123.223  115.015]
+  [ 155.466  127.73 ]
+  [ 135.079  133.26 ]
+  [ 106.968  115.88 ]
+  [  83.875  102.219]
+  [  67.971   81.551]]
+
+ [[  41.93    20.936]
+  [  47.637   32.292]
+  [  62.901   47.594]
+  [  86.404   66.717]
+  [  71.283   66.405]
+  [  52.56    55.968]
+  [  40.993   53.719]
+  [  35.181   47.457]]
+
+ [[  16.996   11.942]
+  [  21.856   15.783]
+  [  29.751   21.421]
+  [  38.843   29.787]
+  [  38.745   29.632]
+  [  23.391   26.233]
+  [  16.253   22.106]
+  [  12.495   21.764]]]
+43997.4707379
+28.59046  +0.00256  +0.96232  +0.90651  +0.29668  +0.09045  +0.19057  +0.19701  +0.12619  +0.10485  +0.04857  +0.05626  +0.96220  +1.02990  +0.40474  +1.00000  +0.02000  +3.41724
+Nu norms index 2.00179732879 11173.1786585
+Nu norms index 0.513722752523 3406.53452164
+Nu norms index 1.02147430655 7176.98231474
+Nu norms index 1.171622388 7419.51588477
+Nu norms index 0.929371286254 4752.26590591
+Nu norms index 1.14202160845 3948.64567159
+Nu norms index 0.924500277795 1829.29401073
+Nu norms index 1.32894276106 2045.8368208
+Nu norms index 0.0 0.0
+[[[  40.082   40.725]
+  [ 117.44    73.968]
+  [ 239.329  117.739]
+  [ 403.002  179.342]
+  [ 505.592  244.54 ]
+  [ 545.788  264.882]
+  [ 447.556  238.555]
+  [ 302.748  205.718]]
+
+ [[ 160.435  125.854]
+  [ 303.327  137.911]
+  [ 504.612  181.658]
+  [ 662.219  222.014]
+  [ 750.367  260.39 ]
+  [ 743.427  266.375]
+  [ 625.463  237.453]
+  [ 448.321  243.478]]
+
+ [[ 399.436  220.909]
+  [ 572.034  226.889]
+  [ 731.604  266.268]
+  [ 821.634  301.827]
+  [ 833.87   307.177]
+  [ 786.12   288.039]
+  [ 657.56   238.262]
+  [ 510.909  256.33 ]]
+
+ [[ 520.951  322.721]
+  [ 654.807  341.906]
+  [ 738.056  402.587]
+  [ 806.638  426.852]
+  [ 786.11   423.984]
+  [ 693.635  345.34 ]
+  [ 564.641  251.689]
+  [ 431.19   253.625]]
+
+ [[ 472.413  334.539]
+  [ 571.172  418.192]
+  [ 628.476  473.698]
+  [ 665.236  480.078]
+  [ 641.146  461.967]
+  [ 525.389  371.677]
+  [ 416.084  254.341]
+  [ 319.263  181.922]]
+
+ [[ 326.797  242.896]
+  [ 379.311  361.29 ]
+  [ 430.574  398.38 ]
+  [ 456.473  405.407]
+  [ 427.443  407.213]
+  [ 353.78   343.43 ]
+  [ 265.247  240.386]
+  [ 198.036  149.782]]
+
+ [[ 183.711  127.747]
+  [ 206.813  210.105]
+  [ 236.489  249.594]
+  [ 273.957  262.968]
+  [ 251.88   269.831]
+  [ 199.199  232.085]
+  [ 154.231  191.483]
+  [ 117.067  126.267]]
+
+ [[  90.302   47.893]
+  [ 101.782   82.904]
+  [ 123.223  115.015]
+  [ 155.466  127.73 ]
+  [ 135.079  133.26 ]
+  [ 106.968  115.88 ]
+  [  83.875  102.219]
+  [  67.971   81.551]]
+
+ [[  41.93    20.936]
+  [  47.637   32.292]
+  [  62.901   47.594]
+  [  86.404   66.717]
+  [  71.283   66.405]
+  [  52.56    55.968]
+  [  40.993   53.719]
+  [  35.181   47.457]]
+
+ [[  16.996   11.942]
+  [  21.856   15.783]
+  [  29.751   21.421]
+  [  38.843   29.787]
+  [  38.745   29.632]
+  [  23.391   26.233]
+  [  16.253   22.106]
+  [  12.495   21.764]]]
+43997.4707379
+28.59046  +0.00256  +0.96232  +0.90651  +0.29668  +0.09045  +0.19057  +0.19701  +0.12619  +0.10485  +0.04857  +0.05626  +0.96220  +1.02990  +0.40474  +1.00000  +0.02000  -3.41724
+/home/trwood/JP_fraction_original_jan26/modules/oscFit.py:543: HesseFailedWarning: HESSE Failed. Covariance and GlobalCC will not be available
+  m.hesse()
+oscFit: HESSE appears to have failed. That is ok! 
+You still have the fit and we do not use the errors anyway.
+This is telling you that 
+1) the error estimate will not be good and
+2) No correlation matrix will be available. You can live with that
+
+
+ ************ FIT FINISHED ************
+
+Migrad EDM	0.0555719522953
+Migrad NCalls	1130
+Using the following parameters for the reference histogram
+{'had_escale': 1.0, 'nu_pi_scale': 0.962197480522688, 'noise_f': 0.0, 'norm_tau': 1.0, 'fit_settings': {'noise_f': [0.0, True], 'pid_bias': [0.0, True], 'octant': 'B', 'hi_fwd': [0.0, False], 'blind_keys': [], 'printMode': -1, 'oscMode': 'TwoNeutrino', 'include_priors': True, 'theta24': [0.0, True], 'atmmu_f': [0.05, False, 'data'], 'dm31': [0.0025, False, 'NH'], 'theta23': [0.74, True], 'nu_frac2': [0.1, False], 'nu_frac3': [0.1, False], 'remove_blind_keys': True, 'nu_frac1': [0.1, False], 'nu_frac6': [0.1, False], 'nu_frac7': [0.1, False], 'nu_frac4': [0.1, False], 'nu_frac5': [0.1, False], 'uphor_ratio': [0.0, True], 'oscTables': False, 'norm': [1.0, False], 'axm_res': [0.0, False], 'norm_tau': [1.0, True], 'nubar_ratio': [0.0, True], 'dm41': [0.0, True], 'norm_nc': [1.0, False], 'domeff': [1.0, False], 'minimizer': 'migrad', 'hole_ice': [0.02, False], 'nu_nubar': [1.0, True], 'baseline_llh': 0.0, 'had_escale': [1.0, True], 'theta34': [0.0, True], 'mix_angle': [1.0, False, 1.0], 'nu_pi_scale': [1.0, False], 'simulation': 'baseline', 'norm_e': [1.0, True], 'axm_qe': [0.0, True], 'fit_function': 'chi_squared', 'llh_space': 'poisson', 'detector_syst': True, 'theta13': [0.155, True], 'gamma': [0.0, True]}, 'hesse_errors': False, 'expected_events_mc': [], 'hi_fwd': 0.0, 'llh': 28.590456196997074, 'add_detector_systematics': True, 'oscMode': 'TwoNeutrino', 'theta24': 0.0, 'atmmu_f': 0.05626292700919111, 'errors': {'noise_f': 0.01, 'pid_bias': 0.01, 'hi_fwd': 5.890296893655275, 'theta24': 0.2, 'atmmu_f': 0.0027656382980889016, 'dm31': 5.896989162714741e-05, 'theta23': 0.0001, 'nu_frac2': 0.0012356529386129411, 'nu_frac3': 0.0012355532086438803, 'nu_frac1': 0.001215008425763775, 'nu_frac6': 0.0010521891842104614, 'nu_frac7': 0.0008685574742265112, 'nu_frac4': 0.0012156688008285177, 'nu_frac5': 0.001163045094901033, 'uphor_ratio': 0.5, 'norm': 0.0031860746066198486, 'axm_res': 0.6058818005713678, 'norm_tau': 0.1, 'nubar_ratio': 0.5, 'nu_nubar': 0.6, 'norm_nc': 0.047785211756039725, 'domeff': 0.0704752146824767, 'hole_ice': 0.006973266711709517, 'dm41': 0.5, 'had_escale': 0.03, 'theta34': 0.2, 'mix_angle': 0.01662262114133989, 'nu_pi_scale': 0.05080169679037794, 'norm_e': 0.05, 'axm_qe': 0.5, 'theta13': 0.008, 'gamma': 0.1}, 'atmmu_template': 'data', 'parameters': ['dm31', 'theta23', 'theta13', 'mix_angle', 'norm', 'nu_frac1', 'nu_frac2', 'nu_frac3', 'nu_frac4', 'nu_frac5', 'nu_frac6', 'nu_frac7', 'gamma', 'norm_e', 'norm_tau', 'nu_nubar', 'nubar_ratio', 'uphor_ratio', 'nu_pi_scale', 'atmmu_f', 'noise_f', 'axm_qe', 'axm_res', 'norm_nc', 'pid_bias', 'domeff', 'had_escale', 'hole_ice', 'hi_fwd', 'dm41', 'theta24', 'theta34'], 'nu_frac2': 0.0904535859070143, 'nu_frac3': 0.19057014753133067, 'nu_frac1': 0.2966810021207156, 'nu_frac6': 0.10484824334012038, 'nu_frac7': 0.04857317661024707, 'nu_frac4': 0.19701013249924054, 'nu_frac5': 0.12618674187580303, 'successful_fit': True, 'uphor_ratio': 0.0, 'norm_noise': 0, 'norm': 0.906505924870344, 'axm_res': 0.4047419633895979, 'pid_bias': 0.0, 'nu_norms': [2.0017973287916715, 0.51372275252334521, 1.0214743065545921, 1.171622387999443, 0.9293712862541702, 1.1420216084488621, 0.92450027779538713, -1.3289427610593736], 'norm_nu': 2.3225046446514606, 'min_routine': 'migrad', 'covariance': None, 'nubar_ratio': 0.0, 'nu_nubar': 1.0, 'norm_nc': 1.0298982680205868, 'domeff': 1.0, 'norm_atmmu': 0.077458667952617216, 'hole_ice': 0.020000055768756287, 'dm31': 0.0025613372608746473, 'dm41': 0.0, 'theta23': 0.74, 'theta34': 0.0, 'mix_angle': 0.9623180729648625, 'expected_events': [44021.551323054453], 'simulation': 'baseline', 'norm_e': 1.0, 'axm_qe': 0.0, 'fit_function': 'chi_squared', 'theta13': 0.155, 'chi_squared': 0, 'gamma': 0.0}
+Events in ref_histo 5581.57336798
+Using the following parameters for the reference histogram
+{'had_escale': 1.0, 'nu_pi_scale': 0.962197480522688, 'noise_f': 0.0, 'norm_tau': 1.0, 'fit_settings': {'noise_f': [0.0, True], 'pid_bias': [0.0, True], 'octant': 'B', 'hi_fwd': [0.0, False], 'blind_keys': [], 'printMode': -1, 'oscMode': 'TwoNeutrino', 'include_priors': True, 'theta24': [0.0, True], 'atmmu_f': [0.05, False, 'data'], 'dm31': [0.0025, False, 'NH'], 'theta23': [0.74, True], 'nu_frac2': [0.1, False], 'nu_frac3': [0.1, False], 'remove_blind_keys': True, 'nu_frac1': [0.1, False], 'nu_frac6': [0.1, False], 'nu_frac7': [0.1, False], 'nu_frac4': [0.1, False], 'nu_frac5': [0.1, False], 'uphor_ratio': [0.0, True], 'oscTables': False, 'norm': [1.0, False], 'axm_res': [0.0, False], 'norm_tau': [1.0, True], 'nubar_ratio': [0.0, True], 'dm41': [0.0, True], 'norm_nc': [1.0, False], 'domeff': [1.0, False], 'minimizer': 'migrad', 'hole_ice': [0.02, False], 'nu_nubar': [1.0, True], 'baseline_llh': 0.0, 'had_escale': [1.0, True], 'theta34': [0.0, True], 'mix_angle': [1.0, False, 1.0], 'nu_pi_scale': [1.0, False], 'simulation': 'baseline', 'norm_e': [1.0, True], 'axm_qe': [0.0, True], 'fit_function': 'chi_squared', 'llh_space': 'poisson', 'detector_syst': True, 'theta13': [0.155, True], 'gamma': [0.0, True]}, 'hesse_errors': False, 'expected_events_mc': [], 'hi_fwd': 0.0, 'llh': 28.590456196997074, 'add_detector_systematics': True, 'oscMode': 'TwoNeutrino', 'theta24': 0.0, 'atmmu_f': 0.05626292700919111, 'errors': {'noise_f': 0.01, 'pid_bias': 0.01, 'hi_fwd': 5.890296893655275, 'theta24': 0.2, 'atmmu_f': 0.0027656382980889016, 'dm31': 5.896989162714741e-05, 'theta23': 0.0001, 'nu_frac2': 0.0012356529386129411, 'nu_frac3': 0.0012355532086438803, 'nu_frac1': 0.001215008425763775, 'nu_frac6': 0.0010521891842104614, 'nu_frac7': 0.0008685574742265112, 'nu_frac4': 0.0012156688008285177, 'nu_frac5': 0.001163045094901033, 'uphor_ratio': 0.5, 'norm': 0.0031860746066198486, 'axm_res': 0.6058818005713678, 'norm_tau': 0.1, 'nubar_ratio': 0.5, 'nu_nubar': 0.6, 'norm_nc': 0.047785211756039725, 'domeff': 0.0704752146824767, 'hole_ice': 0.006973266711709517, 'dm41': 0.5, 'had_escale': 0.03, 'theta34': 0.2, 'mix_angle': 0.01662262114133989, 'nu_pi_scale': 0.05080169679037794, 'norm_e': 0.05, 'axm_qe': 0.5, 'theta13': 0.008, 'gamma': 0.1}, 'atmmu_template': 'data', 'parameters': ['dm31', 'theta23', 'theta13', 'mix_angle', 'norm', 'nu_frac1', 'nu_frac2', 'nu_frac3', 'nu_frac4', 'nu_frac5', 'nu_frac6', 'nu_frac7', 'gamma', 'norm_e', 'norm_tau', 'nu_nubar', 'nubar_ratio', 'uphor_ratio', 'nu_pi_scale', 'atmmu_f', 'noise_f', 'axm_qe', 'axm_res', 'norm_nc', 'pid_bias', 'domeff', 'had_escale', 'hole_ice', 'hi_fwd', 'dm41', 'theta24', 'theta34'], 'nu_frac2': 0.0904535859070143, 'nu_frac3': 0.19057014753133067, 'nu_frac1': 0.2966810021207156, 'nu_frac6': 0.10484824334012038, 'nu_frac7': 0.04857317661024707, 'nu_frac4': 0.19701013249924054, 'nu_frac5': 0.12618674187580303, 'successful_fit': True, 'uphor_ratio': 0.0, 'norm_noise': 0, 'norm': 0.906505924870344, 'axm_res': 0.4047419633895979, 'pid_bias': 0.0, 'nu_norms': [2.0017973287916715, 0.51372275252334521, 1.0214743065545921, 1.171622387999443, 0.9293712862541702, 1.1420216084488621, 0.92450027779538713, -1.3289427610593736], 'norm_nu': 2.3225046446514606, 'min_routine': 'migrad', 'covariance': None, 'nubar_ratio': 0.0, 'nu_nubar': 1.0, 'norm_nc': 1.0298982680205868, 'domeff': 1.0, 'norm_atmmu': 0.077458667952617216, 'hole_ice': 0.020000055768756287, 'dm31': 0.0025613372608746473, 'dm41': 0.0, 'theta23': 0.74, 'theta34': 0.0, 'mix_angle': 0.9623180729648625, 'expected_events': [44021.551323054453], 'simulation': 'baseline', 'norm_e': 1.0, 'axm_qe': 0.0, 'fit_function': 'chi_squared', 'theta13': 0.155, 'chi_squared': 0, 'gamma': 0.0}
+Events in ref_histo 6631.07581844
+Using the following parameters for the reference histogram
+{'had_escale': 1.0, 'nu_pi_scale': 0.962197480522688, 'noise_f': 0.0, 'norm_tau': 1.0, 'fit_settings': {'noise_f': [0.0, True], 'pid_bias': [0.0, True], 'octant': 'B', 'hi_fwd': [0.0, False], 'blind_keys': [], 'printMode': -1, 'oscMode': 'TwoNeutrino', 'include_priors': True, 'theta24': [0.0, True], 'atmmu_f': [0.05, False, 'data'], 'dm31': [0.0025, False, 'NH'], 'theta23': [0.74, True], 'nu_frac2': [0.1, False], 'nu_frac3': [0.1, False], 'remove_blind_keys': True, 'nu_frac1': [0.1, False], 'nu_frac6': [0.1, False], 'nu_frac7': [0.1, False], 'nu_frac4': [0.1, False], 'nu_frac5': [0.1, False], 'uphor_ratio': [0.0, True], 'oscTables': False, 'norm': [1.0, False], 'axm_res': [0.0, False], 'norm_tau': [1.0, True], 'nubar_ratio': [0.0, True], 'dm41': [0.0, True], 'norm_nc': [1.0, False], 'domeff': [1.0, False], 'minimizer': 'migrad', 'hole_ice': [0.02, False], 'nu_nubar': [1.0, True], 'baseline_llh': 0.0, 'had_escale': [1.0, True], 'theta34': [0.0, True], 'mix_angle': [1.0, False, 1.0], 'nu_pi_scale': [1.0, False], 'simulation': 'baseline', 'norm_e': [1.0, True], 'axm_qe': [0.0, True], 'fit_function': 'chi_squared', 'llh_space': 'poisson', 'detector_syst': True, 'theta13': [0.155, True], 'gamma': [0.0, True]}, 'hesse_errors': False, 'expected_events_mc': [], 'hi_fwd': 0.0, 'llh': 28.590456196997074, 'add_detector_systematics': True, 'oscMode': 'TwoNeutrino', 'theta24': 0.0, 'atmmu_f': 0.05626292700919111, 'errors': {'noise_f': 0.01, 'pid_bias': 0.01, 'hi_fwd': 5.890296893655275, 'theta24': 0.2, 'atmmu_f': 0.0027656382980889016, 'dm31': 5.896989162714741e-05, 'theta23': 0.0001, 'nu_frac2': 0.0012356529386129411, 'nu_frac3': 0.0012355532086438803, 'nu_frac1': 0.001215008425763775, 'nu_frac6': 0.0010521891842104614, 'nu_frac7': 0.0008685574742265112, 'nu_frac4': 0.0012156688008285177, 'nu_frac5': 0.001163045094901033, 'uphor_ratio': 0.5, 'norm': 0.0031860746066198486, 'axm_res': 0.6058818005713678, 'norm_tau': 0.1, 'nubar_ratio': 0.5, 'nu_nubar': 0.6, 'norm_nc': 0.047785211756039725, 'domeff': 0.0704752146824767, 'hole_ice': 0.006973266711709517, 'dm41': 0.5, 'had_escale': 0.03, 'theta34': 0.2, 'mix_angle': 0.01662262114133989, 'nu_pi_scale': 0.05080169679037794, 'norm_e': 0.05, 'axm_qe': 0.5, 'theta13': 0.008, 'gamma': 0.1}, 'atmmu_template': 'data', 'parameters': ['dm31', 'theta23', 'theta13', 'mix_angle', 'norm', 'nu_frac1', 'nu_frac2', 'nu_frac3', 'nu_frac4', 'nu_frac5', 'nu_frac6', 'nu_frac7', 'gamma', 'norm_e', 'norm_tau', 'nu_nubar', 'nubar_ratio', 'uphor_ratio', 'nu_pi_scale', 'atmmu_f', 'noise_f', 'axm_qe', 'axm_res', 'norm_nc', 'pid_bias', 'domeff', 'had_escale', 'hole_ice', 'hi_fwd', 'dm41', 'theta24', 'theta34'], 'nu_frac2': 0.0904535859070143, 'nu_frac3': 0.19057014753133067, 'nu_frac1': 0.2966810021207156, 'nu_frac6': 0.10484824334012038, 'nu_frac7': 0.04857317661024707, 'nu_frac4': 0.19701013249924054, 'nu_frac5': 0.12618674187580303, 'successful_fit': True, 'uphor_ratio': 0.0, 'norm_noise': 0, 'norm': 0.906505924870344, 'axm_res': 0.4047419633895979, 'pid_bias': 0.0, 'nu_norms': [2.0017973287916715, 0.51372275252334521, 1.0214743065545921, 1.171622387999443, 0.9293712862541702, 1.1420216084488621, 0.92450027779538713, -1.3289427610593736], 'norm_nu': 2.3225046446514606, 'min_routine': 'migrad', 'covariance': None, 'nubar_ratio': 0.0, 'nu_nubar': 1.0, 'norm_nc': 1.0298982680205868, 'domeff': 1.0, 'norm_atmmu': 0.077458667952617216, 'hole_ice': 0.020000055768756287, 'dm31': 0.0025613372608746473, 'dm41': 0.0, 'theta23': 0.74, 'theta34': 0.0, 'mix_angle': 0.9623180729648625, 'expected_events': [44021.551323054453], 'simulation': 'baseline', 'norm_e': 1.0, 'axm_qe': 0.0, 'fit_function': 'chi_squared', 'theta13': 0.155, 'chi_squared': 0, 'gamma': 0.0}
+Events in ref_histo 7026.10165394
+Using the following parameters for the reference histogram
+{'had_escale': 1.0, 'nu_pi_scale': 0.962197480522688, 'noise_f': 0.0, 'norm_tau': 1.0, 'fit_settings': {'noise_f': [0.0, True], 'pid_bias': [0.0, True], 'octant': 'B', 'hi_fwd': [0.0, False], 'blind_keys': [], 'printMode': -1, 'oscMode': 'TwoNeutrino', 'include_priors': True, 'theta24': [0.0, True], 'atmmu_f': [0.05, False, 'data'], 'dm31': [0.0025, False, 'NH'], 'theta23': [0.74, True], 'nu_frac2': [0.1, False], 'nu_frac3': [0.1, False], 'remove_blind_keys': True, 'nu_frac1': [0.1, False], 'nu_frac6': [0.1, False], 'nu_frac7': [0.1, False], 'nu_frac4': [0.1, False], 'nu_frac5': [0.1, False], 'uphor_ratio': [0.0, True], 'oscTables': False, 'norm': [1.0, False], 'axm_res': [0.0, False], 'norm_tau': [1.0, True], 'nubar_ratio': [0.0, True], 'dm41': [0.0, True], 'norm_nc': [1.0, False], 'domeff': [1.0, False], 'minimizer': 'migrad', 'hole_ice': [0.02, False], 'nu_nubar': [1.0, True], 'baseline_llh': 0.0, 'had_escale': [1.0, True], 'theta34': [0.0, True], 'mix_angle': [1.0, False, 1.0], 'nu_pi_scale': [1.0, False], 'simulation': 'baseline', 'norm_e': [1.0, True], 'axm_qe': [0.0, True], 'fit_function': 'chi_squared', 'llh_space': 'poisson', 'detector_syst': True, 'theta13': [0.155, True], 'gamma': [0.0, True]}, 'hesse_errors': False, 'expected_events_mc': [], 'hi_fwd': 0.0, 'llh': 28.590456196997074, 'add_detector_systematics': True, 'oscMode': 'TwoNeutrino', 'theta24': 0.0, 'atmmu_f': 0.05626292700919111, 'errors': {'noise_f': 0.01, 'pid_bias': 0.01, 'hi_fwd': 5.890296893655275, 'theta24': 0.2, 'atmmu_f': 0.0027656382980889016, 'dm31': 5.896989162714741e-05, 'theta23': 0.0001, 'nu_frac2': 0.0012356529386129411, 'nu_frac3': 0.0012355532086438803, 'nu_frac1': 0.001215008425763775, 'nu_frac6': 0.0010521891842104614, 'nu_frac7': 0.0008685574742265112, 'nu_frac4': 0.0012156688008285177, 'nu_frac5': 0.001163045094901033, 'uphor_ratio': 0.5, 'norm': 0.0031860746066198486, 'axm_res': 0.6058818005713678, 'norm_tau': 0.1, 'nubar_ratio': 0.5, 'nu_nubar': 0.6, 'norm_nc': 0.047785211756039725, 'domeff': 0.0704752146824767, 'hole_ice': 0.006973266711709517, 'dm41': 0.5, 'had_escale': 0.03, 'theta34': 0.2, 'mix_angle': 0.01662262114133989, 'nu_pi_scale': 0.05080169679037794, 'norm_e': 0.05, 'axm_qe': 0.5, 'theta13': 0.008, 'gamma': 0.1}, 'atmmu_template': 'data', 'parameters': ['dm31', 'theta23', 'theta13', 'mix_angle', 'norm', 'nu_frac1', 'nu_frac2', 'nu_frac3', 'nu_frac4', 'nu_frac5', 'nu_frac6', 'nu_frac7', 'gamma', 'norm_e', 'norm_tau', 'nu_nubar', 'nubar_ratio', 'uphor_ratio', 'nu_pi_scale', 'atmmu_f', 'noise_f', 'axm_qe', 'axm_res', 'norm_nc', 'pid_bias', 'domeff', 'had_escale', 'hole_ice', 'hi_fwd', 'dm41', 'theta24', 'theta34'], 'nu_frac2': 0.0904535859070143, 'nu_frac3': 0.19057014753133067, 'nu_frac1': 0.2966810021207156, 'nu_frac6': 0.10484824334012038, 'nu_frac7': 0.04857317661024707, 'nu_frac4': 0.19701013249924054, 'nu_frac5': 0.12618674187580303, 'successful_fit': True, 'uphor_ratio': 0.0, 'norm_noise': 0, 'norm': 0.906505924870344, 'axm_res': 0.4047419633895979, 'pid_bias': 0.0, 'nu_norms': [2.0017973287916715, 0.51372275252334521, 1.0214743065545921, 1.171622387999443, 0.9293712862541702, 1.1420216084488621, 0.92450027779538713, -1.3289427610593736], 'norm_nu': 2.3225046446514606, 'min_routine': 'migrad', 'covariance': None, 'nubar_ratio': 0.0, 'nu_nubar': 1.0, 'norm_nc': 1.0298982680205868, 'domeff': 1.0, 'norm_atmmu': 0.077458667952617216, 'hole_ice': 0.020000055768756287, 'dm31': 0.0025613372608746473, 'dm41': 0.0, 'theta23': 0.74, 'theta34': 0.0, 'mix_angle': 0.9623180729648625, 'expected_events': [44021.551323054453], 'simulation': 'baseline', 'norm_e': 1.0, 'axm_qe': 0.0, 'fit_function': 'chi_squared', 'theta13': 0.155, 'chi_squared': 0, 'gamma': 0.0}
+Events in ref_histo 6332.6853095
+Using the following parameters for the reference histogram
+{'had_escale': 1.0, 'nu_pi_scale': 0.962197480522688, 'noise_f': 0.0, 'norm_tau': 1.0, 'fit_settings': {'noise_f': [0.0, True], 'pid_bias': [0.0, True], 'octant': 'B', 'hi_fwd': [0.0, False], 'blind_keys': [], 'printMode': -1, 'oscMode': 'TwoNeutrino', 'include_priors': True, 'theta24': [0.0, True], 'atmmu_f': [0.05, False, 'data'], 'dm31': [0.0025, False, 'NH'], 'theta23': [0.74, True], 'nu_frac2': [0.1, False], 'nu_frac3': [0.1, False], 'remove_blind_keys': True, 'nu_frac1': [0.1, False], 'nu_frac6': [0.1, False], 'nu_frac7': [0.1, False], 'nu_frac4': [0.1, False], 'nu_frac5': [0.1, False], 'uphor_ratio': [0.0, True], 'oscTables': False, 'norm': [1.0, False], 'axm_res': [0.0, False], 'norm_tau': [1.0, True], 'nubar_ratio': [0.0, True], 'dm41': [0.0, True], 'norm_nc': [1.0, False], 'domeff': [1.0, False], 'minimizer': 'migrad', 'hole_ice': [0.02, False], 'nu_nubar': [1.0, True], 'baseline_llh': 0.0, 'had_escale': [1.0, True], 'theta34': [0.0, True], 'mix_angle': [1.0, False, 1.0], 'nu_pi_scale': [1.0, False], 'simulation': 'baseline', 'norm_e': [1.0, True], 'axm_qe': [0.0, True], 'fit_function': 'chi_squared', 'llh_space': 'poisson', 'detector_syst': True, 'theta13': [0.155, True], 'gamma': [0.0, True]}, 'hesse_errors': False, 'expected_events_mc': [], 'hi_fwd': 0.0, 'llh': 28.590456196997074, 'add_detector_systematics': True, 'oscMode': 'TwoNeutrino', 'theta24': 0.0, 'atmmu_f': 0.05626292700919111, 'errors': {'noise_f': 0.01, 'pid_bias': 0.01, 'hi_fwd': 5.890296893655275, 'theta24': 0.2, 'atmmu_f': 0.0027656382980889016, 'dm31': 5.896989162714741e-05, 'theta23': 0.0001, 'nu_frac2': 0.0012356529386129411, 'nu_frac3': 0.0012355532086438803, 'nu_frac1': 0.001215008425763775, 'nu_frac6': 0.0010521891842104614, 'nu_frac7': 0.0008685574742265112, 'nu_frac4': 0.0012156688008285177, 'nu_frac5': 0.001163045094901033, 'uphor_ratio': 0.5, 'norm': 0.0031860746066198486, 'axm_res': 0.6058818005713678, 'norm_tau': 0.1, 'nubar_ratio': 0.5, 'nu_nubar': 0.6, 'norm_nc': 0.047785211756039725, 'domeff': 0.0704752146824767, 'hole_ice': 0.006973266711709517, 'dm41': 0.5, 'had_escale': 0.03, 'theta34': 0.2, 'mix_angle': 0.01662262114133989, 'nu_pi_scale': 0.05080169679037794, 'norm_e': 0.05, 'axm_qe': 0.5, 'theta13': 0.008, 'gamma': 0.1}, 'atmmu_template': 'data', 'parameters': ['dm31', 'theta23', 'theta13', 'mix_angle', 'norm', 'nu_frac1', 'nu_frac2', 'nu_frac3', 'nu_frac4', 'nu_frac5', 'nu_frac6', 'nu_frac7', 'gamma', 'norm_e', 'norm_tau', 'nu_nubar', 'nubar_ratio', 'uphor_ratio', 'nu_pi_scale', 'atmmu_f', 'noise_f', 'axm_qe', 'axm_res', 'norm_nc', 'pid_bias', 'domeff', 'had_escale', 'hole_ice', 'hi_fwd', 'dm41', 'theta24', 'theta34'], 'nu_frac2': 0.0904535859070143, 'nu_frac3': 0.19057014753133067, 'nu_frac1': 0.2966810021207156, 'nu_frac6': 0.10484824334012038, 'nu_frac7': 0.04857317661024707, 'nu_frac4': 0.19701013249924054, 'nu_frac5': 0.12618674187580303, 'successful_fit': True, 'uphor_ratio': 0.0, 'norm_noise': 0, 'norm': 0.906505924870344, 'axm_res': 0.4047419633895979, 'pid_bias': 0.0, 'nu_norms': [2.0017973287916715, 0.51372275252334521, 1.0214743065545921, 1.171622387999443, 0.9293712862541702, 1.1420216084488621, 0.92450027779538713, -1.3289427610593736], 'norm_nu': 2.3225046446514606, 'min_routine': 'migrad', 'covariance': None, 'nubar_ratio': 0.0, 'nu_nubar': 1.0, 'norm_nc': 1.0298982680205868, 'domeff': 1.0, 'norm_atmmu': 0.077458667952617216, 'hole_ice': 0.020000055768756287, 'dm31': 0.0025613372608746473, 'dm41': 0.0, 'theta23': 0.74, 'theta34': 0.0, 'mix_angle': 0.9623180729648625, 'expected_events': [44021.551323054453], 'simulation': 'baseline', 'norm_e': 1.0, 'axm_qe': 0.0, 'fit_function': 'chi_squared', 'theta13': 0.155, 'chi_squared': 0, 'gamma': 0.0}
+Events in ref_histo 5113.42019729
+Using the following parameters for the reference histogram
+{'had_escale': 1.0, 'nu_pi_scale': 0.962197480522688, 'noise_f': 0.0, 'norm_tau': 1.0, 'fit_settings': {'noise_f': [0.0, True], 'pid_bias': [0.0, True], 'octant': 'B', 'hi_fwd': [0.0, False], 'blind_keys': [], 'printMode': -1, 'oscMode': 'TwoNeutrino', 'include_priors': True, 'theta24': [0.0, True], 'atmmu_f': [0.05, False, 'data'], 'dm31': [0.0025, False, 'NH'], 'theta23': [0.74, True], 'nu_frac2': [0.1, False], 'nu_frac3': [0.1, False], 'remove_blind_keys': True, 'nu_frac1': [0.1, False], 'nu_frac6': [0.1, False], 'nu_frac7': [0.1, False], 'nu_frac4': [0.1, False], 'nu_frac5': [0.1, False], 'uphor_ratio': [0.0, True], 'oscTables': False, 'norm': [1.0, False], 'axm_res': [0.0, False], 'norm_tau': [1.0, True], 'nubar_ratio': [0.0, True], 'dm41': [0.0, True], 'norm_nc': [1.0, False], 'domeff': [1.0, False], 'minimizer': 'migrad', 'hole_ice': [0.02, False], 'nu_nubar': [1.0, True], 'baseline_llh': 0.0, 'had_escale': [1.0, True], 'theta34': [0.0, True], 'mix_angle': [1.0, False, 1.0], 'nu_pi_scale': [1.0, False], 'simulation': 'baseline', 'norm_e': [1.0, True], 'axm_qe': [0.0, True], 'fit_function': 'chi_squared', 'llh_space': 'poisson', 'detector_syst': True, 'theta13': [0.155, True], 'gamma': [0.0, True]}, 'hesse_errors': False, 'expected_events_mc': [], 'hi_fwd': 0.0, 'llh': 28.590456196997074, 'add_detector_systematics': True, 'oscMode': 'TwoNeutrino', 'theta24': 0.0, 'atmmu_f': 0.05626292700919111, 'errors': {'noise_f': 0.01, 'pid_bias': 0.01, 'hi_fwd': 5.890296893655275, 'theta24': 0.2, 'atmmu_f': 0.0027656382980889016, 'dm31': 5.896989162714741e-05, 'theta23': 0.0001, 'nu_frac2': 0.0012356529386129411, 'nu_frac3': 0.0012355532086438803, 'nu_frac1': 0.001215008425763775, 'nu_frac6': 0.0010521891842104614, 'nu_frac7': 0.0008685574742265112, 'nu_frac4': 0.0012156688008285177, 'nu_frac5': 0.001163045094901033, 'uphor_ratio': 0.5, 'norm': 0.0031860746066198486, 'axm_res': 0.6058818005713678, 'norm_tau': 0.1, 'nubar_ratio': 0.5, 'nu_nubar': 0.6, 'norm_nc': 0.047785211756039725, 'domeff': 0.0704752146824767, 'hole_ice': 0.006973266711709517, 'dm41': 0.5, 'had_escale': 0.03, 'theta34': 0.2, 'mix_angle': 0.01662262114133989, 'nu_pi_scale': 0.05080169679037794, 'norm_e': 0.05, 'axm_qe': 0.5, 'theta13': 0.008, 'gamma': 0.1}, 'atmmu_template': 'data', 'parameters': ['dm31', 'theta23', 'theta13', 'mix_angle', 'norm', 'nu_frac1', 'nu_frac2', 'nu_frac3', 'nu_frac4', 'nu_frac5', 'nu_frac6', 'nu_frac7', 'gamma', 'norm_e', 'norm_tau', 'nu_nubar', 'nubar_ratio', 'uphor_ratio', 'nu_pi_scale', 'atmmu_f', 'noise_f', 'axm_qe', 'axm_res', 'norm_nc', 'pid_bias', 'domeff', 'had_escale', 'hole_ice', 'hi_fwd', 'dm41', 'theta24', 'theta34'], 'nu_frac2': 0.0904535859070143, 'nu_frac3': 0.19057014753133067, 'nu_frac1': 0.2966810021207156, 'nu_frac6': 0.10484824334012038, 'nu_frac7': 0.04857317661024707, 'nu_frac4': 0.19701013249924054, 'nu_frac5': 0.12618674187580303, 'successful_fit': True, 'uphor_ratio': 0.0, 'norm_noise': 0, 'norm': 0.906505924870344, 'axm_res': 0.4047419633895979, 'pid_bias': 0.0, 'nu_norms': [2.0017973287916715, 0.51372275252334521, 1.0214743065545921, 1.171622387999443, 0.9293712862541702, 1.1420216084488621, 0.92450027779538713, -1.3289427610593736], 'norm_nu': 2.3225046446514606, 'min_routine': 'migrad', 'covariance': None, 'nubar_ratio': 0.0, 'nu_nubar': 1.0, 'norm_nc': 1.0298982680205868, 'domeff': 1.0, 'norm_atmmu': 0.077458667952617216, 'hole_ice': 0.020000055768756287, 'dm31': 0.0025613372608746473, 'dm41': 0.0, 'theta23': 0.74, 'theta34': 0.0, 'mix_angle': 0.9623180729648625, 'expected_events': [44021.551323054453], 'simulation': 'baseline', 'norm_e': 1.0, 'axm_qe': 0.0, 'fit_function': 'chi_squared', 'theta13': 0.155, 'chi_squared': 0, 'gamma': 0.0}
+Events in ref_histo 3457.59278316
+Using the following parameters for the reference histogram
+{'had_escale': 1.0, 'nu_pi_scale': 0.962197480522688, 'noise_f': 0.0, 'norm_tau': 1.0, 'fit_settings': {'noise_f': [0.0, True], 'pid_bias': [0.0, True], 'octant': 'B', 'hi_fwd': [0.0, False], 'blind_keys': [], 'printMode': -1, 'oscMode': 'TwoNeutrino', 'include_priors': True, 'theta24': [0.0, True], 'atmmu_f': [0.05, False, 'data'], 'dm31': [0.0025, False, 'NH'], 'theta23': [0.74, True], 'nu_frac2': [0.1, False], 'nu_frac3': [0.1, False], 'remove_blind_keys': True, 'nu_frac1': [0.1, False], 'nu_frac6': [0.1, False], 'nu_frac7': [0.1, False], 'nu_frac4': [0.1, False], 'nu_frac5': [0.1, False], 'uphor_ratio': [0.0, True], 'oscTables': False, 'norm': [1.0, False], 'axm_res': [0.0, False], 'norm_tau': [1.0, True], 'nubar_ratio': [0.0, True], 'dm41': [0.0, True], 'norm_nc': [1.0, False], 'domeff': [1.0, False], 'minimizer': 'migrad', 'hole_ice': [0.02, False], 'nu_nubar': [1.0, True], 'baseline_llh': 0.0, 'had_escale': [1.0, True], 'theta34': [0.0, True], 'mix_angle': [1.0, False, 1.0], 'nu_pi_scale': [1.0, False], 'simulation': 'baseline', 'norm_e': [1.0, True], 'axm_qe': [0.0, True], 'fit_function': 'chi_squared', 'llh_space': 'poisson', 'detector_syst': True, 'theta13': [0.155, True], 'gamma': [0.0, True]}, 'hesse_errors': False, 'expected_events_mc': [], 'hi_fwd': 0.0, 'llh': 28.590456196997074, 'add_detector_systematics': True, 'oscMode': 'TwoNeutrino', 'theta24': 0.0, 'atmmu_f': 0.05626292700919111, 'errors': {'noise_f': 0.01, 'pid_bias': 0.01, 'hi_fwd': 5.890296893655275, 'theta24': 0.2, 'atmmu_f': 0.0027656382980889016, 'dm31': 5.896989162714741e-05, 'theta23': 0.0001, 'nu_frac2': 0.0012356529386129411, 'nu_frac3': 0.0012355532086438803, 'nu_frac1': 0.001215008425763775, 'nu_frac6': 0.0010521891842104614, 'nu_frac7': 0.0008685574742265112, 'nu_frac4': 0.0012156688008285177, 'nu_frac5': 0.001163045094901033, 'uphor_ratio': 0.5, 'norm': 0.0031860746066198486, 'axm_res': 0.6058818005713678, 'norm_tau': 0.1, 'nubar_ratio': 0.5, 'nu_nubar': 0.6, 'norm_nc': 0.047785211756039725, 'domeff': 0.0704752146824767, 'hole_ice': 0.006973266711709517, 'dm41': 0.5, 'had_escale': 0.03, 'theta34': 0.2, 'mix_angle': 0.01662262114133989, 'nu_pi_scale': 0.05080169679037794, 'norm_e': 0.05, 'axm_qe': 0.5, 'theta13': 0.008, 'gamma': 0.1}, 'atmmu_template': 'data', 'parameters': ['dm31', 'theta23', 'theta13', 'mix_angle', 'norm', 'nu_frac1', 'nu_frac2', 'nu_frac3', 'nu_frac4', 'nu_frac5', 'nu_frac6', 'nu_frac7', 'gamma', 'norm_e', 'norm_tau', 'nu_nubar', 'nubar_ratio', 'uphor_ratio', 'nu_pi_scale', 'atmmu_f', 'noise_f', 'axm_qe', 'axm_res', 'norm_nc', 'pid_bias', 'domeff', 'had_escale', 'hole_ice', 'hi_fwd', 'dm41', 'theta24', 'theta34'], 'nu_frac2': 0.0904535859070143, 'nu_frac3': 0.19057014753133067, 'nu_frac1': 0.2966810021207156, 'nu_frac6': 0.10484824334012038, 'nu_frac7': 0.04857317661024707, 'nu_frac4': 0.19701013249924054, 'nu_frac5': 0.12618674187580303, 'successful_fit': True, 'uphor_ratio': 0.0, 'norm_noise': 0, 'norm': 0.906505924870344, 'axm_res': 0.4047419633895979, 'pid_bias': 0.0, 'nu_norms': [2.0017973287916715, 0.51372275252334521, 1.0214743065545921, 1.171622387999443, 0.9293712862541702, 1.1420216084488621, 0.92450027779538713, -1.3289427610593736], 'norm_nu': 2.3225046446514606, 'min_routine': 'migrad', 'covariance': None, 'nubar_ratio': 0.0, 'nu_nubar': 1.0, 'norm_nc': 1.0298982680205868, 'domeff': 1.0, 'norm_atmmu': 0.077458667952617216, 'hole_ice': 0.020000055768756287, 'dm31': 0.0025613372608746473, 'dm41': 0.0, 'theta23': 0.74, 'theta34': 0.0, 'mix_angle': 0.9623180729648625, 'expected_events': [44021.551323054453], 'simulation': 'baseline', 'norm_e': 1.0, 'axm_qe': 0.0, 'fit_function': 'chi_squared', 'theta13': 0.155, 'chi_squared': 0, 'gamma': 0.0}
+Events in ref_histo 1978.68411147
+Using the following parameters for the reference histogram
+{'had_escale': 1.0, 'nu_pi_scale': 0.962197480522688, 'noise_f': 0.0, 'norm_tau': 1.0, 'fit_settings': {'noise_f': [0.0, True], 'pid_bias': [0.0, True], 'octant': 'B', 'hi_fwd': [0.0, False], 'blind_keys': [], 'printMode': -1, 'oscMode': 'TwoNeutrino', 'include_priors': True, 'theta24': [0.0, True], 'atmmu_f': [0.05, False, 'data'], 'dm31': [0.0025, False, 'NH'], 'theta23': [0.74, True], 'nu_frac2': [0.1, False], 'nu_frac3': [0.1, False], 'remove_blind_keys': True, 'nu_frac1': [0.1, False], 'nu_frac6': [0.1, False], 'nu_frac7': [0.1, False], 'nu_frac4': [0.1, False], 'nu_frac5': [0.1, False], 'uphor_ratio': [0.0, True], 'oscTables': False, 'norm': [1.0, False], 'axm_res': [0.0, False], 'norm_tau': [1.0, True], 'nubar_ratio': [0.0, True], 'dm41': [0.0, True], 'norm_nc': [1.0, False], 'domeff': [1.0, False], 'minimizer': 'migrad', 'hole_ice': [0.02, False], 'nu_nubar': [1.0, True], 'baseline_llh': 0.0, 'had_escale': [1.0, True], 'theta34': [0.0, True], 'mix_angle': [1.0, False, 1.0], 'nu_pi_scale': [1.0, False], 'simulation': 'baseline', 'norm_e': [1.0, True], 'axm_qe': [0.0, True], 'fit_function': 'chi_squared', 'llh_space': 'poisson', 'detector_syst': True, 'theta13': [0.155, True], 'gamma': [0.0, True]}, 'hesse_errors': False, 'expected_events_mc': [], 'hi_fwd': 0.0, 'llh': 28.590456196997074, 'add_detector_systematics': True, 'oscMode': 'TwoNeutrino', 'theta24': 0.0, 'atmmu_f': 0.05626292700919111, 'errors': {'noise_f': 0.01, 'pid_bias': 0.01, 'hi_fwd': 5.890296893655275, 'theta24': 0.2, 'atmmu_f': 0.0027656382980889016, 'dm31': 5.896989162714741e-05, 'theta23': 0.0001, 'nu_frac2': 0.0012356529386129411, 'nu_frac3': 0.0012355532086438803, 'nu_frac1': 0.001215008425763775, 'nu_frac6': 0.0010521891842104614, 'nu_frac7': 0.0008685574742265112, 'nu_frac4': 0.0012156688008285177, 'nu_frac5': 0.001163045094901033, 'uphor_ratio': 0.5, 'norm': 0.0031860746066198486, 'axm_res': 0.6058818005713678, 'norm_tau': 0.1, 'nubar_ratio': 0.5, 'nu_nubar': 0.6, 'norm_nc': 0.047785211756039725, 'domeff': 0.0704752146824767, 'hole_ice': 0.006973266711709517, 'dm41': 0.5, 'had_escale': 0.03, 'theta34': 0.2, 'mix_angle': 0.01662262114133989, 'nu_pi_scale': 0.05080169679037794, 'norm_e': 0.05, 'axm_qe': 0.5, 'theta13': 0.008, 'gamma': 0.1}, 'atmmu_template': 'data', 'parameters': ['dm31', 'theta23', 'theta13', 'mix_angle', 'norm', 'nu_frac1', 'nu_frac2', 'nu_frac3', 'nu_frac4', 'nu_frac5', 'nu_frac6', 'nu_frac7', 'gamma', 'norm_e', 'norm_tau', 'nu_nubar', 'nubar_ratio', 'uphor_ratio', 'nu_pi_scale', 'atmmu_f', 'noise_f', 'axm_qe', 'axm_res', 'norm_nc', 'pid_bias', 'domeff', 'had_escale', 'hole_ice', 'hi_fwd', 'dm41', 'theta24', 'theta34'], 'nu_frac2': 0.0904535859070143, 'nu_frac3': 0.19057014753133067, 'nu_frac1': 0.2966810021207156, 'nu_frac6': 0.10484824334012038, 'nu_frac7': 0.04857317661024707, 'nu_frac4': 0.19701013249924054, 'nu_frac5': 0.12618674187580303, 'successful_fit': True, 'uphor_ratio': 0.0, 'norm_noise': 0, 'norm': 0.906505924870344, 'axm_res': 0.4047419633895979, 'pid_bias': 0.0, 'nu_norms': [2.0017973287916715, 0.51372275252334521, 1.0214743065545921, 1.171622387999443, 0.9293712862541702, 1.1420216084488621, 0.92450027779538713, -1.3289427610593736], 'norm_nu': 2.3225046446514606, 'min_routine': 'migrad', 'covariance': None, 'nubar_ratio': 0.0, 'nu_nubar': 1.0, 'norm_nc': 1.0298982680205868, 'domeff': 1.0, 'norm_atmmu': 0.077458667952617216, 'hole_ice': 0.020000055768756287, 'dm31': 0.0025613372608746473, 'dm41': 0.0, 'theta23': 0.74, 'theta34': 0.0, 'mix_angle': 0.9623180729648625, 'expected_events': [44021.551323054453], 'simulation': 'baseline', 'norm_e': 1.0, 'axm_qe': 0.0, 'fit_function': 'chi_squared', 'theta13': 0.155, 'chi_squared': 0, 'gamma': 0.0}
+Events in ref_histo 1539.44690527
+Using the following parameters for the reference histogram
+{'had_escale': 1.0, 'nu_pi_scale': 0.962197480522688, 'noise_f': 0.0, 'norm_tau': 1.0, 'fit_settings': {'noise_f': [0.0, True], 'pid_bias': [0.0, True], 'octant': 'B', 'hi_fwd': [0.0, False], 'blind_keys': [], 'printMode': -1, 'oscMode': 'TwoNeutrino', 'include_priors': True, 'theta24': [0.0, True], 'atmmu_f': [0.05, False, 'data'], 'dm31': [0.0025, False, 'NH'], 'theta23': [0.74, True], 'nu_frac2': [0.1, False], 'nu_frac3': [0.1, False], 'remove_blind_keys': True, 'nu_frac1': [0.1, False], 'nu_frac6': [0.1, False], 'nu_frac7': [0.1, False], 'nu_frac4': [0.1, False], 'nu_frac5': [0.1, False], 'uphor_ratio': [0.0, True], 'oscTables': False, 'norm': [1.0, False], 'axm_res': [0.0, False], 'norm_tau': [1.0, True], 'nubar_ratio': [0.0, True], 'dm41': [0.0, True], 'norm_nc': [1.0, False], 'domeff': [1.0, False], 'minimizer': 'migrad', 'hole_ice': [0.02, False], 'nu_nubar': [1.0, True], 'baseline_llh': 0.0, 'had_escale': [1.0, True], 'theta34': [0.0, True], 'mix_angle': [1.0, False, 1.0], 'nu_pi_scale': [1.0, False], 'simulation': 'baseline', 'norm_e': [1.0, True], 'axm_qe': [0.0, True], 'fit_function': 'chi_squared', 'llh_space': 'poisson', 'detector_syst': True, 'theta13': [0.155, True], 'gamma': [0.0, True]}, 'hesse_errors': False, 'expected_events_mc': [], 'hi_fwd': 0.0, 'llh': 28.590456196997074, 'add_detector_systematics': True, 'oscMode': 'TwoNeutrino', 'theta24': 0.0, 'atmmu_f': 0.05626292700919111, 'errors': {'noise_f': 0.01, 'pid_bias': 0.01, 'hi_fwd': 5.890296893655275, 'theta24': 0.2, 'atmmu_f': 0.0027656382980889016, 'dm31': 5.896989162714741e-05, 'theta23': 0.0001, 'nu_frac2': 0.0012356529386129411, 'nu_frac3': 0.0012355532086438803, 'nu_frac1': 0.001215008425763775, 'nu_frac6': 0.0010521891842104614, 'nu_frac7': 0.0008685574742265112, 'nu_frac4': 0.0012156688008285177, 'nu_frac5': 0.001163045094901033, 'uphor_ratio': 0.5, 'norm': 0.0031860746066198486, 'axm_res': 0.6058818005713678, 'norm_tau': 0.1, 'nubar_ratio': 0.5, 'nu_nubar': 0.6, 'norm_nc': 0.047785211756039725, 'domeff': 0.0704752146824767, 'hole_ice': 0.006973266711709517, 'dm41': 0.5, 'had_escale': 0.03, 'theta34': 0.2, 'mix_angle': 0.01662262114133989, 'nu_pi_scale': 0.05080169679037794, 'norm_e': 0.05, 'axm_qe': 0.5, 'theta13': 0.008, 'gamma': 0.1}, 'atmmu_template': 'data', 'parameters': ['dm31', 'theta23', 'theta13', 'mix_angle', 'norm', 'nu_frac1', 'nu_frac2', 'nu_frac3', 'nu_frac4', 'nu_frac5', 'nu_frac6', 'nu_frac7', 'gamma', 'norm_e', 'norm_tau', 'nu_nubar', 'nubar_ratio', 'uphor_ratio', 'nu_pi_scale', 'atmmu_f', 'noise_f', 'axm_qe', 'axm_res', 'norm_nc', 'pid_bias', 'domeff', 'had_escale', 'hole_ice', 'hi_fwd', 'dm41', 'theta24', 'theta34'], 'nu_frac2': 0.0904535859070143, 'nu_frac3': 0.19057014753133067, 'nu_frac1': 0.2966810021207156, 'nu_frac6': 0.10484824334012038, 'nu_frac7': 0.04857317661024707, 'nu_frac4': 0.19701013249924054, 'nu_frac5': 0.12618674187580303, 'successful_fit': True, 'uphor_ratio': 0.0, 'norm_noise': 0, 'norm': 0.906505924870344, 'axm_res': 0.4047419633895979, 'pid_bias': 0.0, 'nu_norms': [2.0017973287916715, 0.51372275252334521, 1.0214743065545921, 1.171622387999443, 0.9293712862541702, 1.1420216084488621, 0.92450027779538713, -1.3289427610593736], 'norm_nu': 2.3225046446514606, 'min_routine': 'migrad', 'covariance': None, 'nubar_ratio': 0.0, 'nu_nubar': 1.0, 'norm_nc': 1.0298982680205868, 'domeff': 1.0, 'norm_atmmu': 0.077458667952617216, 'hole_ice': 0.020000055768756287, 'dm31': 0.0025613372608746473, 'dm41': 0.0, 'theta23': 0.74, 'theta34': 0.0, 'mix_angle': 0.9623180729648625, 'expected_events': [44021.551323054453], 'simulation': 'baseline', 'norm_e': 1.0, 'axm_qe': 0.0, 'fit_function': 'chi_squared', 'theta13': 0.155, 'chi_squared': 0, 'gamma': 0.0}
+Events in ref_histo 2245.21694927
+
+oscFit: Loader  8  nonzero bins:  128
+oscFit: Total nonzero bins:  128
+
+ **** oscFit3D results ****
+add_detector_systematics 	True
+atmmu_f 	0.0562629270092 	0.00276563829809
+atmmu_template 	data
+axm_qe 	0.0 	0.5
+axm_res 	0.40474196339 	0.605881800571
+chi_squared 	625.985833976
+dm31 	0.00256133726087 	5.89698916271e-05
+dm41 	0.0 	0.5
+domeff 	1.0 	0.0704752146825
+expected_events 	[44021.551323054453]
+expected_events_mc 	[39905.797096332775]
+fit_function 	chi_squared
+gamma 	0.0 	0.1
+had_escale 	1.0 	0.03
+hesse_errors 	False
+hi_fwd 	0.0 	5.89029689366
+hole_ice 	0.0200000557688 	0.00697326671171
+llh 	28.590456197
+min_routine 	migrad
+mix_angle 	0.962318072965 	0.0166226211413
+noise_f 	0.0 	0.01
+nonzero_bins 	128
+norm 	0.90650592487 	0.00318607460662
+norm_atmmu 	0.0774586679526
+norm_e 	1.0 	0.05
+norm_nc 	1.02989826802 	0.047785211756
+norm_noise 	0
+norm_nu 	2.32250464465
+norm_tau 	1.0 	0.1
+nu_frac1 	0.296681002121 	0.00121500842576
+nu_frac2 	0.090453585907 	0.00123565293861
+nu_frac3 	0.190570147531 	0.00123555320864
+nu_frac4 	0.197010132499 	0.00121566880083
+nu_frac5 	0.126186741876 	0.0011630450949
+nu_frac6 	0.10484824334 	0.00105218918421
+nu_frac7 	0.0485731766102 	0.000868557474227
+nu_norms 	[2.0017973287916715, 0.51372275252334521, 1.0214743065545921, 1.171622387999443, 0.9293712862541702, 1.1420216084488621, 0.92450027779538713, -1.3289427610593736]
+nu_nubar 	1.0 	0.6
+nu_pi_scale 	0.962197480523 	0.0508016967904
+nubar_ratio 	0.0 	0.5
+oscMode 	TwoNeutrino
+pid_bias 	0.0 	0.01
+simulation 	baseline
+successful_fit 	True
+theta13 	0.155 	0.008
+theta23 	0.74 	0.0001
+theta24 	0.0 	0.2
+theta34 	0.0 	0.2
+uphor_ratio 	0.0 	0.5
+
+
+The fit was successful!
+
+Traceback (most recent call last):
+  File "/home/trwood/pbs_submit/FractionForwdFold/flat_flat_8binsFrac_values_in_NO_systematicsTest_JP_original_fractional_9bins_SLSQP_minuit.py", line 286, in <module>
+    return_minuit_object = False) 
+ValueError: too many values to unpack
