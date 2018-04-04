@@ -3,6 +3,7 @@
 import os, sys
 #modules_dir = '/home/trwood/JP_fraction_original_jan26/modules'
 modules_dir = '/gs/project/ngw-282-ac/trwood/jasper_home/JP_fraction_original_jan26/modules/'
+######## ie 'oscFit_3D_v2.0_andris_daydreamVerson_for_makingSYSFILES'= JP_fraction_original_jan26/, which is just oscFit3D_v2.0, checked out Jan 26th 2017
 #modules_dir = '/home/trwood/Andreis_daydream/modules'
 sys.path.append(modules_dir)
 
