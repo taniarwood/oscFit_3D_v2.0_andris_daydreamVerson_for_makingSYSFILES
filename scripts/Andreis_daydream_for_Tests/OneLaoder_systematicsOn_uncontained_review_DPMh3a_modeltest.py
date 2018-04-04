@@ -6,6 +6,9 @@ modules_dir = '/gs/project/ngw-282-ac/trwood/jasper_home/JP_fraction_original_ja
 #modules_dir = '/home/trwood/Andreis_daydream/modules'
 sys.path.append(modules_dir)
 
+################################################################
+#  Script that makes the SYSFILE for the H3a DPMJET-III version of the fitting machinery 
+#march 2018
 
 # Importing modules
 import argparse
