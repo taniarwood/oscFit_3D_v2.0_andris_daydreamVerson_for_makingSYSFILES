@@ -29,7 +29,7 @@ minimizer_options.update({ 'Nelder-Mead':
                                       'maxiter': None,
                                       'return_all': False, 
                                       'maxfev': None, 
-                                      'xtol': 0.0001, 
+                                      'xtol': 0.001,  #change this mased on Jessie presentation at atlanta meeting. 
                                       'ftol': 0.001} 
                              }   
                           }) 
